@@ -1,0 +1,8 @@
+max_width = 185
+struct_lit_width = 10
+struct_variant_width = 10
+array_width = 60
+chain_width = 60
+single_line_if_else_max_width = 50
+single_line_let_else_max_width = 50
+brace_style = "PreferSameLine"
